@@ -1,5 +1,4 @@
 # Stock-analysis by using VBA 
-## Module 2
 
 ## Overview and Background of Project
 Steve interested in the workbook that been prepared. At the clicking of a button, he can examine a whole dataset as per year. Now, to dig little more into this, for his dad and mom, he wants to amplify the dataset to consist of the whole stock marketplace over the previous few years. However it seems like the execution of the code is slow. 
